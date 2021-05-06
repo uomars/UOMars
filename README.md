@@ -10,6 +10,8 @@ Feedback per https://uomars.it/
 
 - Per vedere i bug da risolvere 👉 [Clicca qui](https://github.com/andreadellacorte/UOMars/projects/1)
 
+- Per vedere le bible updates da fare 👉 [Clicca qui](https://github.com/andreadellacorte/UOMars/projects/4)
+
 # 🚩 Milestones
 
 - Per vedere tutte le Alpha features / bugs 👉 [Clicca qui](https://github.com/andreadellacorte/UOMars/issues?q=is%3Aopen+is%3Aissue+milestone%3AAlpha) 
