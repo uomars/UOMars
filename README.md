@@ -14,7 +14,12 @@ Feedback per https://uomars.it/
 
 # 🚩 Milestones
 
-- Per vedere tutte le Alpha features / bugs 👉 [Clicca qui](https://github.com/andreadellacorte/UOMars/issues?q=is%3Aopen+is%3Aissue+milestone%3AAlpha) 
+- Alpha = Server chiuso e ingresso a invito; playtest di 24h con reset alla fine.
+- Closed Beta = Server chiuso e ingresso a invito; server sempre su - alta possibilita' di bugs e reset a save precedenti.
+- Open Beta = Server aperto a tutti; server sempre su - media possibilita' di bugs e reset a save precedenti.
+- Launch = Server aperto a tutti; server sempre su - bassa possibilita' di bugs e reset a save precedenti.
+
+Per vedere tutto il da fare per arrivare alle Milestones 👉 [Clicca qui](https://github.com/andreadellacorte/UOMars/issues?q=is%3Aopen+is%3Aissue+milestone%3AAlpha) 
 
 # 🔨 Admin
 
